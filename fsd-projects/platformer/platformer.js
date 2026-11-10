@@ -42,9 +42,9 @@ createPlatform(1000, 600, 175, 10, "blue");
    
 
     // TODO 3 - Create Collectables
-createCollectable("diamond", 700, 170, 0.6, 0.7);
+createCollectable("database", 700, 170, 0.6, 0.7);
 createCollectable("diamond", 500, 170, 0.5, 0.7);
-createCollectable("diamond", 200, 170, 0.6, 0.7);
+createCollectable("database", 200, 170, 0.6, 0.7);
 
  
 
